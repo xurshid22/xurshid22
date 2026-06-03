@@ -53,9 +53,9 @@ status  : Open to Freelance & Collaboration ✅
 
 ### 📊 GitHub Stats
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=xurshid22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5b8&icon_color=38bdf8&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
+<img height="175" src="https://gh-stats-xi.vercel.app/api?username=xurshid22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5b8&icon_color=38bdf8&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
 &nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xurshid22&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5b8&text_color=c9d1d9"/>
+<img height="175" src="https://gh-stats-xi.vercel.app/api/top-langs/?username=xurshid22&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5b8&text_color=c9d1d9"/>
 
 <br/>
 
@@ -90,16 +90,16 @@ status  : Open to Freelance & Collaboration ✅
 <div align="center">
 
 <a href="https://github.com/xurshid22/dokon-uz">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xurshid22&repo=dokon-uz&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5b8&text_color=c9d1d9&icon_color=38bdf8"/>
+  <img src="https://gh-stats-xi.vercel.app/api/pin/?username=xurshid22&repo=dokon-uz&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5b8&text_color=c9d1d9&icon_color=38bdf8"/>
 </a>
 <a href="https://github.com/xurshid22/netanalyzer-pro">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xurshid22&repo=netanalyzer-pro&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5b8&text_color=c9d1d9&icon_color=38bdf8"/>
+  <img src="https://gh-stats-xi.vercel.app/api/pin/?username=xurshid22&repo=netanalyzer-pro&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5b8&text_color=c9d1d9&icon_color=38bdf8"/>
 </a>
 <a href="https://github.com/xurshid22/Neon-pulse-bot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xurshid22&repo=Neon-pulse-bot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5b8&text_color=c9d1d9&icon_color=38bdf8"/>
+  <img src="https://gh-stats-xi.vercel.app/api/pin/?username=xurshid22&repo=Neon-pulse-bot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5b8&text_color=c9d1d9&icon_color=38bdf8"/>
 </a>
 <a href="https://github.com/xurshid22/Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xurshid22&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5b8&text_color=c9d1d9&icon_color=38bdf8"/>
+  <img src="https://gh-stats-xi.vercel.app/api/pin/?username=xurshid22&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5b8&text_color=c9d1d9&icon_color=38bdf8"/>
 </a>
 
 </div>
