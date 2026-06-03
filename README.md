@@ -1,179 +1,135 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Xurshidbek&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Agent%20Architect%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00e5b8,100:38bdf8&height=220&section=header&text=Xurshidbek+Hasanovich&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=⚡+AI+Agent+Architect+%7C+Full-Stack+Developer&descAlignY=58&descSize=18&descColor=00e5b8" width="100%"/>
 
-<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00E5B8&center=true&vCenter=true&random=false&width=600&lines=AI+Agent+Architect+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%9A%80;Building+Autonomous+Systems+%E2%9A%A1;Tashkent%2C+Uzbekistan+%F0%9F%87%BA%F0%9F%87%BF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00E5B8&center=true&vCenter=true&multiline=false&random=false&width=600&height=50&lines=🤖+AI+Agent+Architect;⚡+Autonomous+Systems+Builder;🚀+Full-Stack+Developer;🇺🇿+From+Tashkent%2C+Uzbekistan;💡+Building+the+Future..." alt="Typing SVG" />
 </a>
 
 <br/>
+<br/>
 
-<!-- Profile Views & Social -->
-<img src="https://komarev.com/ghpvc/?username=xurshid22&style=for-the-badge&color=00e5b8&label=PROFILE+VIEWS"/>
-<a href="https://t.me/xurshid22"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=xurshid22&style=for-the-badge&color=00e5b8&label=PROFILE+VIEWS&abbreviated=true"/>
+&nbsp;
+<a href="https://github.com/xurshid22?tab=followers">
+  <img src="https://img.shields.io/github/followers/xurshid22?style=for-the-badge&color=38bdf8&labelColor=0d1117&label=FOLLOWERS"/>
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-00e5b8?style=for-the-badge&logo=checkmarx&logoColor=black"/>
 
 </div>
 
 ---
 
-<!-- About Me -->
-<div align="center">
+<img align="right" alt="Coding GIF" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-## 🧠 Men haqimda
+### 👋 Salom, men Xurshidbek!
 
-</div>
-
-```python
-class XurshidbekHasanovich:
-    def __init__(self):
-        self.name       = "Xurshidbek Hasanovich"
-        self.location   = "Tashkent, Uzbekistan 🇺🇿"
-        self.role       = "AI Agent Architect & Full-Stack Developer"
-        self.languages  = ["Python", "TypeScript", "JavaScript"]
-        self.focuses    = ["AI Agents", "Autonomous Systems", "Fintech", "Web Apps"]
-        self.current    = "Building next-gen AI-powered platforms 🚀"
-    
-    def say_hi(self):
-        print("Autonomous systems that think, act & deliver! ⚡")
-
-me = XurshidbekHasanovich()
-me.say_hi()
+```yaml
+name: Xurshidbek Hasanovich
+location: Tashkent, Uzbekistan 🇺🇿
+role: AI Agent Architect & Full-Stack Dev
+currently_building:
+  - 🤖 Autonomous AI agents
+  - 💱 Fintech platforms
+  - 🛍️ E-commerce systems
+  - 📡 Real-time dashboards
+passion: "Systems that think, act & deliver ⚡"
+available_for: Freelance & Collaboration ✅
 ```
 
+<br clear="right"/>
+
 ---
 
-<!-- Tech Stack -->
 <div align="center">
 
-## ⚡ Tech Stack
+### 🛠️ Tech Arsenal
 
-### 🖥️ Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### ⚙️ Backend & AI
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-### 🚀 DevOps & Tools
-![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,python,nodejs,postgres,prisma,tailwind,html,css,vercel,github,vscode&perline=7&theme=dark" />
 
 </div>
 
 ---
 
-<!-- GitHub Stats -->
 <div align="center">
 
-## 📊 GitHub Statistikasi
+### 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=xurshid22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=060e1e&title_color=00e5b8&icon_color=38bdf8&text_color=f0f6ff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xurshid22&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=060e1e&title_color=00e5b8&text_color=f0f6ff"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=xurshid22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5b8&icon_color=38bdf8&text_color=c9d1d9&ring_color=00e5b8&include_all_commits=true&count_private=true"/>
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xurshid22&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5b8&text_color=c9d1d9"/>
 
-</div>
+<br/>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=xurshid22&theme=tokyonight&hide_border=true&background=060e1e&ring=00e5b8&fire=38bdf8&currStreakLabel=00e5b8&sideLabels=f0f6ff&dates=8fa8c8&currStreakNum=f0f6ff&sideNums=f0f6ff" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=xurshid22&theme=tokyonight&hide_border=true&background=0d1117&ring=00e5b8&fire=38bdf8&currStreakLabel=00e5b8&sideLabels=c9d1d9&dates=666&currStreakNum=ffffff&sideNums=ffffff&stroke=00e5b8" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-<!-- Activity Graph -->
 <div align="center">
 
-## 🐍 Contribution Snake
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=xurshid22&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=xurshid22&custom_title=Xurshidbek's%20Contribution%20Graph&bg_color=0d1117&color=00e5b8&line=38bdf8&point=00e5b8&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://valyuta-monitor.vercel.app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xurshid22&repo=xurshid22&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5b8&text_color=c9d1d9&icon_color=38bdf8" />
+</a>
+<a href="https://github.com/xurshid22/dokon-uz">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xurshid22&repo=dokon-uz&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5b8&text_color=c9d1d9&icon_color=38bdf8" />
+</a>
+
+<a href="https://github.com/xurshid22/netanalyzer-pro">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xurshid22&repo=netanalyzer-pro&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5b8&text_color=c9d1d9&icon_color=38bdf8" />
+</a>
+<a href="https://github.com/xurshid22/Neon-pulse-bot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xurshid22&repo=Neon-pulse-bot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5b8&text_color=c9d1d9&icon_color=38bdf8" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🐍 My Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xurshid22/xurshid22/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xurshid22/xurshid22/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xurshid22/xurshid22/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xurshid22/xurshid22/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xurshid22/xurshid22/output/github-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/xurshid22/xurshid22/output/github-snake-dark.svg"/>
 </picture>
 
 </div>
 
 ---
 
-<!-- Projects -->
 <div align="center">
 
-## 🚀 So'nggi Loyihalar
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+**⚡ "Autonomous systems that think, act & deliver" ⚡**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:00e5b8,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
-
-<table align="center">
-<tr>
-<td width="50%">
-
-### 💱 ValyutaMonitor Pro
-Real-time valyuta monitoring tizimi. 6 ta valyuta, 3 ta filial, Sberbank/VTB o'tkazma kalkulyatori.
-
-**Tech:** HTML · CSS · JS · Vercel API
-
-[![Live](https://img.shields.io/badge/🌐_Live-00e5b8?style=for-the-badge)](https://valyuta-monitor.vercel.app)
-
-</td>
-<td width="50%">
-
-### 🛍️ Dokon.uz
-Ikki tilli (UZ/RU) e-commerce platforma. Mahsulotlar, savat, to'lov tizimi.
-
-**Tech:** Next.js 15 · Prisma · PostgreSQL · NextAuth
-
-[![Repo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/xurshid22/dokon-uz)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📡 NetAnalyzer Pro
-Real-time router port analiz va VPN moslik diagnostika vositasi.
-
-**Tech:** Next.js 14 · TypeScript · Tailwind
-
-[![Repo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/xurshid22/netanalyzer-pro)
-
-</td>
-<td width="50%">
-
-### 🤖 Neon Pulse Bot
-Real-time analitika dashboard bilan Telegram bot.
-
-**Tech:** Node.js · JavaScript · Telegram API
-
-[![Repo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/xurshid22/Neon-pulse-bot)
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- Quote -->
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-
-</div>
-
----
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-<div align="center">
-<i>⚡ "Autonomous systems that think, act & deliver" ⚡</i>
-</div>
-
