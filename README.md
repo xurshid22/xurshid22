@@ -67,16 +67,6 @@ status  : Open to Freelance & Collaboration ✅
 
 <div align="center">
 
-### 🏆 GitHub Trophies
-
-<img src="https://github-trophies.vercel.app/?username=xurshid22&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" alt="Trophies"/>
-
-</div>
-
----
-
-<div align="center">
-
 ### 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=xurshid22&custom_title=Xurshidbek%27s%20Contribution%20Graph&bg_color=0d1117&color=00e5b8&line=38bdf8&point=ffffff&area_color=00e5b8&area=true&hide_border=true" width="100%"/>
